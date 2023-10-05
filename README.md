@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robin2134
 - 👀 I’m interested in ai 🤖
-- 🌱 I’m currently learning python 🐍
+- 🌱 I’m currently learning java ☕
 - 📫 How to reach me arman225alam@gmail.com
 
 <!---
